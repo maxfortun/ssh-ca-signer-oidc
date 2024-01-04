@@ -1,2 +1,4 @@
-# oidc-ssh-ca-signer
-Sign SSH Certs with your OIDC identity
+# ssh-ca-signer-oidc
+Sign SSH Certs with OIDC identity
+
+Stay tuned. Coming soon.  
